@@ -2,8 +2,6 @@
 
 A professional, full-featured contact management application built with React, Vite, and Tailwind CSS. This project demonstrates modern React patterns, clean architecture, and beautiful UI design.
 
-![Phonebook App](https://img.shields.io/badge/React-19-blue) ![Vite](https://img.shields.io/badge/Vite-6-646CFF) ![Tailwind CSS](https://img.shields.io/badge/Tailwind-3-38B2AC)
-
 ## Features
 
 - **Contact Management**: Add and view contacts with names and phone numbers
