@@ -4,6 +4,7 @@
   "version": "1.0.0",
   "description": "A modern contact management application built with React, Vite, and Tailwind CSS",
   "author": "Gavin Antonacci",
+  "license": "MIT",
   "type": "module",
   "scripts": {
     "dev": "vite",
