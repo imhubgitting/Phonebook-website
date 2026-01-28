@@ -2,8 +2,6 @@
 
 A professional, full-featured contact management application built with React, Vite, and Tailwind CSS. This project demonstrates modern React patterns, clean architecture, and beautiful UI design.
 
-![Phonebook App](https://img.shields.io/badge/React-19-blue) ![Vite](https://img.shields.io/badge/Vite-6-646CFF) ![Tailwind CSS](https://img.shields.io/badge/Tailwind-3-38B2AC)
-
 ## Features
 
 - **Contact Management**: Add and view contacts with names and phone numbers
@@ -142,7 +140,6 @@ VITE_API_URL=http://localhost:3001
 - Empty state messages
 - Search result count
 - Avatar circles with initials
-- Click-to-call phone links
 - Responsive design (mobile, tablet, desktop)
 
 ### Error Handling
@@ -179,8 +176,8 @@ VITE_API_URL=http://localhost:3001
 ## Future Enhancements
 
 Potential features for future development:
-- ✅ Update existing contacts
-- ✅ Delete contacts
+- Update existing contacts
+- Delete contacts
 - Contact categories/tags
 - Export contacts (CSV, vCard)
 - Dark mode toggle
