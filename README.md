@@ -140,7 +140,6 @@ VITE_API_URL=http://localhost:3001
 - Empty state messages
 - Search result count
 - Avatar circles with initials
-- Click-to-call phone links
 - Responsive design (mobile, tablet, desktop)
 
 ### Error Handling
@@ -177,8 +176,8 @@ VITE_API_URL=http://localhost:3001
 ## Future Enhancements
 
 Potential features for future development:
-- ✅ Update existing contacts
-- ✅ Delete contacts
+- Update existing contacts
+- Delete contacts
 - Contact categories/tags
 - Export contacts (CSV, vCard)
 - Dark mode toggle
